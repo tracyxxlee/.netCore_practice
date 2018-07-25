@@ -2,7 +2,5 @@
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
-/.vs/TodoAPI/v15
-/.vs/.netCore_practice/v15
-/.vs/slnx.sqlite
 /.vs
+/TodoAPI/bin
