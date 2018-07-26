@@ -3,9 +3,9 @@ D:\Repos\.netCore_practice\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig
 D:\Repos\.netCore_practice\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.dev.json
 D:\Repos\.netCore_practice\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.dll
 D:\Repos\.netCore_practice\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.pdb
-D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csprojAssemblyReference.cache
 D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csproj.CoreCompileInputs.cache
 D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfoInputs.cache
 D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfo.cs
 D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.dll
 D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.pdb
+D:\Repos\.netCore_practice\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csprojAssemblyReference.cache

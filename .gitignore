@@ -4,3 +4,5 @@
 
 /.vs
 /TodoAPI/bin
+/XUnitTestProject/bin/Debug/netcoreapp2.0
+/XUnitTestProject/obj

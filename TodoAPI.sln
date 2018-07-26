@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoAPI", "TodoAPI\TodoAPI.csproj", "{358CECA5-4AFD-40B8-A3B5-927F4257A040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{3A608901-1249-4C77-9C8F-2F19B999F95D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{358CECA5-4AFD-40B8-A3B5-927F4257A040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{358CECA5-4AFD-40B8-A3B5-927F4257A040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{358CECA5-4AFD-40B8-A3B5-927F4257A040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A608901-1249-4C77-9C8F-2F19B999F95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A608901-1249-4C77-9C8F-2F19B999F95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A608901-1249-4C77-9C8F-2F19B999F95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A608901-1249-4C77-9C8F-2F19B999F95D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
